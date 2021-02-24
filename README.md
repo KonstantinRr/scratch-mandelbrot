@@ -1,2 +1,2 @@
-# scratch-mandelbrot
-Mandelbrot render using Scratch!
+# Scratch Mandelbrot
+Mandelbrot render using [Scratch](https://scratch.mit.edu/)!
